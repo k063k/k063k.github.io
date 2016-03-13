@@ -1,0 +1,13 @@
+.row span section {
+	background-color: #f8f8f8;
+	margin: 10px;
+	padding: 10px;
+}
+
+.row span section h3{
+	margin-top: 0px;
+}
+
+.row span section p:last-child {
+	margin-bottom: 0px;
+}
